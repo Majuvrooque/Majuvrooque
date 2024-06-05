@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Maria Julia 👋
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
-- 🤔 Estou procurando ajuda para desenvolver minhas habilidades em front-end
+- 🤔 Estou procurando ajuda para desenvolver minhas habilidades e estudos em front-end
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: ...
 
