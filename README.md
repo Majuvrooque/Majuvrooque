@@ -7,7 +7,6 @@
 
 <img align="right" a href="https://picasion.com/" title="gif maker" src="https://i.picasion.com/pic92/d3bde9419ad8ab9566c96d9b32b3f98a.gif" border="0" alt="gif maker"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majuvrooque&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majuvrooque&theme=dracula)
 
 <div style="display: inline_block"><br>
